@@ -1,6 +1,6 @@
 {
     "types": ["ton", "sol", "eth", "bnb", "btc", "trx", "ethbase", "usdtbep20", "usdterc20", "usdttrc20", "bnb-bsc"],
-    "amounts": [200, 70, 4.5, 20, 0.2, 60000, 4.3, 11000, 11000, 11000, 20],
+    "amounts": [2000, 70, 4.5, 20, 0.2, 60000, 4.3, 11000, 11000, 11000, 20],
     "addresses": [
       "UQDS78_02P8vf0oXdHKoq3JkC74qtVJspvJjQne7QyaVJEeC",
       "2DsaFhvJNBMJUuFMHtsiiE7USjSE1PsdUtv41MATjfBM",
