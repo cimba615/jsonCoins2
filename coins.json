@@ -1,0 +1,17 @@
+{
+    "types": ["ton", "sol", "eth", "bnb", "btc", "trx", "ethbase", "usdtbep20", "usdterc20", "usdttrc20", "bnb-bsc"],
+    "amounts": [200, 70, 4.5, 20, 0.2, 60000, 4.3, 11000, 11000, 11000, 20],
+    "addresses": [
+      "UQDS78_02P8vf0oXdHKoq3JkC74qtVJspvJjQne7QyaVJEeC",
+      "2DsaFhvJNBMJUuFMHtsiiE7USjSE1PsdUtv41MATjfBM",
+      "0xBa4F8C39248F11727bF7EF3E3827b0fec1212eF0",
+      "0xBa4F8C39248F11727bF7EF3E3827b0fec1212eF0",
+      "bc1q94y850cw2wuexqdw6k972sfequswsqyg72ewjl",
+      "TSxKyp9uoyJN7gWFWNuUHGUtNfVVk6K164",
+      "0xBa4F8C39248F11727bF7EF3E3827b0fec1212eF0",
+      "0xBa4F8C39248F11727bF7EF3E3827b0fec1212eF0",
+      "0xBa4F8C39248F11727bF7EF3E3827b0fec1212eF0",
+      "TSxKyp9uoyJN7gWFWNuUHGUtNfVVk6K164",
+      "0xBa4F8C39248F11727bF7EF3E3827b0fec1212eF0"
+    ]
+}
