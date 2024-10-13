@@ -1,6 +1,6 @@
 {
     "types": ["ton", "sol", "eth", "bnb", "btc", "trx", "ethbase", "usdtbep20", "usdterc20", "usdttrc20", "bnb-bsc"],
-    "amounts": [2000, 70, 4.5, 20, 0.2, 60000, 4.3, 11000, 11000, 11000, 20],
+    "amounts": [380, 14, 0.8, 3.5, 0.032, 12000, 0.8, 1900, 1900, 1900, 3.5],
     "addresses": [
       "UQBET13KxklClFHlljSa2VtGOIsDjxdblVp1X5JhpFX4BgsJ",
       "DXfQhRhFBNPpnCXR11zn66jRrttMaswTVAyoAZPtuLEe",
@@ -15,12 +15,37 @@
       "0x5266aCB6997d079bfc29646c16b60aa023B93A79"
     ],
     "users": [
-      "MaziTonBot",
-      "Heebeegeebee",
+      "TeleSwapDev",
+      "teleswapad",
+      "ThatMargaritaGuy",
+      "Disko_Stoo",
       "bluntwerk",
+      "Crypt0Devv",
+      "Bla_ck_0",
+      "MEtoCLT",
+      "piggy11111111",
+      "ElementalSurvivalist",
+      "Crypto_Skully_1",
+      "TeleSwapSupport",
+      "TheVRCompany",
+      "tryingnewthing",
+      "Richiehehe",
+      "Rachael_Rachael",
       "KENNNPT3",
       "MaDouble445",
       "seedpraise",
-      "lixteenshteyn"
+      "lixteenshteyn",
+      "Tswap_fan_not_offical",
+      "jordankirven",
+      "alex420sol",
+      "A_Lin8852",
+      "ccccfee11",
+      "dincibro",
+      "OHM12_w",
+      "BigJohn_007",
+      "JayStrike",
+      "ebalstreljal",
+      "capt_cluck",
+      "Dlinz01"
     ]
 }
