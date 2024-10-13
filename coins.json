@@ -2,20 +2,19 @@
     "types": ["ton", "sol", "eth", "bnb", "btc", "trx", "ethbase", "usdtbep20", "usdterc20", "usdttrc20", "bnb-bsc"],
     "amounts": [2000, 70, 4.5, 20, 0.2, 60000, 4.3, 11000, 11000, 11000, 20],
     "addresses": [
-      "UQDS78_02P8vf0oXdHKoq3JkC74qtVJspvJjQne7QyaVJEeC",
-      "2DsaFhvJNBMJUuFMHtsiiE7USjSE1PsdUtv41MATjfBM",
-      "0xBa4F8C39248F11727bF7EF3E3827b0fec1212eF0",
-      "0xBa4F8C39248F11727bF7EF3E3827b0fec1212eF0",
-      "bc1q94y850cw2wuexqdw6k972sfequswsqyg72ewjl",
-      "TSxKyp9uoyJN7gWFWNuUHGUtNfVVk6K164",
-      "0xBa4F8C39248F11727bF7EF3E3827b0fec1212eF0",
-      "0xBa4F8C39248F11727bF7EF3E3827b0fec1212eF0",
-      "0xBa4F8C39248F11727bF7EF3E3827b0fec1212eF0",
-      "TSxKyp9uoyJN7gWFWNuUHGUtNfVVk6K164",
-      "0xBa4F8C39248F11727bF7EF3E3827b0fec1212eF0"
+      "UQBET13KxklClFHlljSa2VtGOIsDjxdblVp1X5JhpFX4BgsJ",
+      "DXfQhRhFBNPpnCXR11zn66jRrttMaswTVAyoAZPtuLEe",
+      "0x5266aCB6997d079bfc29646c16b60aa023B93A79",
+      "0x5266aCB6997d079bfc29646c16b60aa023B93A79",
+      "bc1qw3yydd4k2tvq236y54q8vcgmxjvn0r0fptufxh",
+      "THmwirCD41QeKngb4PEkmttDHWQcq9oR18",
+      "0x5266aCB6997d079bfc29646c16b60aa023B93A79",
+      "0x5266aCB6997d079bfc29646c16b60aa023B93A79",
+      "0x5266aCB6997d079bfc29646c16b60aa023B93A79",
+      "THmwirCD41QeKngb4PEkmttDHWQcq9oR18",
+      "0x5266aCB6997d079bfc29646c16b60aa023B93A79"
     ],
     "users": [
-      "erwinbryan67",
       "TeleSwapDev",
       "Crypt0Devv"
     ]
